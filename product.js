@@ -1,5 +1,5 @@
-let num1 = 18 ;
-let num2 = 8 ;
+let num1 = 15 ;
+let num2 = 25 ;
 let counter = 0 ;
 let product = 0 ;
 while( counter < num2 ) {

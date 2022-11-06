@@ -1,4 +1,4 @@
-let score = 69;
+let score = 100;
 let curstat="passed";
 let curgrad="A";
 if(score < 70){
