@@ -2,7 +2,7 @@ let score = 91;
 let curstat="";
 let curgrad="";
 switch(score){
-    case score>70 ? score : true:
+    case score>=70 ? score : true:
         curstat="passed";
         break;
     case score<70 ? score : true:
