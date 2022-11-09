@@ -1,8 +1,13 @@
-let score = 100;
-let curstat="passed";
-let curgrad="A";
-if(score < 70){
-    curstat = "failed";
+let score = 91;
+let curstat="";
+let curgrad="";
+switch(score){
+    case score>70 ? score : true:
+        curstat="passed";
+        break;
+    case score<70 ? score : true:
+        curstat="failed";
+        break
 }
 if(score<=100 && score>=97) {
     curgrad="A+";

@@ -1,4 +1,4 @@
-let decimal = 7;
+let decimal = 157;
 let reverse = "";
 let binary = "";
 while(decimal > 0 ){
